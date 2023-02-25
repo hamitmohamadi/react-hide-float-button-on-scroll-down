@@ -1,5 +1,6 @@
 ## Hide floating button after scroll to down in React.js
 This project is a sample for hiding float button when scroll to down.
+
 ![](https://github.com/hamitmohamadi/react-hide-float-button-on-scroll-down/blob/main/public/gif.gif)
 
 First, run the development server:
